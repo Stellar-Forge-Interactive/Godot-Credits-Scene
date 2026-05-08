@@ -1,3 +1,6 @@
+# Notice
+This is a repack of [Maaack's Credits Scene](https://github.com/Maaack/Godot-Credits-Scene) intended to be used as a submodule. This is not our original work.
+
 # Godot Credits Scene
 For Godot 4.5 (4.3+ compatible)
 
@@ -5,11 +8,6 @@ This credits scene scrolls text that is read from an attribution file in a markd
 
 [Example on itch.io](https://maaack.itch.io/godot-game-template)  
 _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template), which includes additional features._
-
-### Screenshots
-
-![Credits Screen](/addons/maaacks_credits_scene/media/Screenshot-3-5.png)  
-[More Screenshots](/addons/maaacks_credits_scene/docs/Screenshots.md)  
 
 ## Objective
 
@@ -78,17 +76,6 @@ Users that want additional features can try [Maaack's Game Template](https://git
 [Automatic Updating](/addons/maaacks_credits_scene/docs/AutomaticUpdating.md)  
 
 ---
-
-## Featured Games
-
-| Baking Godium | Spud Customs | Rent Seek Kill |  
-| :-------:| :-------: | :-------: |
-| ![Baking Godium](/addons/maaacks_credits_scene/media/thumbnail-game-baking-godium.png) | ![Spud Customs](/addons/maaacks_credits_scene/media/thumbnail-game-spud-customs.png) | ![Rent-Seek-Kill](/addons/maaacks_credits_scene/media/thumbnail-game-rent-seek-kill.png) |
-|  [Play on itch.io](https://maaack.itch.io/baking-godium) | [Find on Steam](https://store.steampowered.com/app/3291880/Spud_Customs/) | [Play on itch.io](https://xandruher.itch.io/rent-seek-kill)  |
-
-
-[All Shared Games](/addons/maaacks_credits_scene/docs/GamesMade.md)  
-
 
 ## Community
 
