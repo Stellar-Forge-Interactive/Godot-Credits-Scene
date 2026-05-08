@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://b0o5hpukdt644"]
 
-[ext_resource type="Script" uid="uid://cc2wtqasev7le" path="res://addons/maaacks_credits_scene/base/nodes/labels/credits_label.gd" id="1_mkjgh"]
+[ext_resource type="Script" uid="uid://cc2wtqasev7le" path="res://addons/Godot-Credits-Scene/base/nodes/labels/credits_label.gd" id="1_mkjgh"]
 
 [node name="CreditsLabel" type="RichTextLabel"]
 custom_minimum_size = Vector2(1280, 0)
@@ -49,7 +49,7 @@ fit_content = true
 scroll_active = false
 horizontal_alignment = 1
 script = ExtResource("1_mkjgh")
-attribution_file_path = "res://addons/maaacks_credits_scene/examples/ATTRIBUTION.md"
+attribution_file_path = "res://addons/Godot-Credits-Scene/examples/ATTRIBUTION.md"
 h1_font_size = 64
 h2_font_size = 48
 h3_font_size = 32
